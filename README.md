@@ -80,4 +80,7 @@ Si vous développez sous Windows, vous devez éditer votre configuration git pou
 ___
 
 ### Me contacter
+* Profil Linkedin : [Linkedin](https://www.linkedin.com/in/roger-aissan/)
+* Mail : roger.aissan@gmail.com
+___
 
